@@ -1,5 +1,5 @@
 # Kohonen network implementation from scratch
-This repository contains fully implementation of Kohonen network implemented from scratch
+This repository contains full implementation of Kohonen network implemented from scratch
 
 ### Folder structure
 
